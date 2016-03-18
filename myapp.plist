@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/liangbaiue/appTest/blob/master/app.png</string>
+					<string>https://raw.githubusercontent.com/liangbaiue/appTest/master/app.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/liangbaiue/appTest/blob/master/app.png</string>
+					<string>https://raw.githubusercontent.com/liangbaiue/appTest/master/app.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
