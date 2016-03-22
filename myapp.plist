@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>io.dcloud.HuashanApp</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>5.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
