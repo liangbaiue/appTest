@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.41.46.133/KAM.ipa</string>
+					<string>http://121.41.46.133/HuashanApp_0322163946.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>H53999195</string>
+				<string>io.dcloud.HuashanApp</string>
 				<key>bundle-version</key>
 				<string>5.3.2</string>
 				<key>kind</key>
